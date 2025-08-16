@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a name="logo"><img src="src/img/computacion-banner.png"
+  <a name="logo"><img src="img/computacion-banner.png"
   alt="Computación" width="750"></a>
 </h1>
 
